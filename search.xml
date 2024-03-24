@@ -43,6 +43,19 @@
     
     
     <entry>
+      <title>诗</title>
+      <link href="/2024/03/24/%E8%AF%97/"/>
+      <url>/2024/03/24/%E8%AF%97/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% poem 水调歌头,苏轼 %&#125;</span><br><span class="line">庭中三千梨花树，再无一朵入我心。</span><br><span class="line">&#123;% endpoem %&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown语法与外挂标签写法汇总</title>
       <link href="/2024/03/22/%E4%B9%A6%E5%86%99%E8%A6%81%E6%B1%82/"/>
       <url>/2024/03/22/%E4%B9%A6%E5%86%99%E8%A6%81%E6%B1%82/</url>
