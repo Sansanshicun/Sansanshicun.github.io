@@ -5,8 +5,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2024/03/24/hello-world/"/>
-      <url>/2024/03/24/hello-world/</url>
+      <link href="/2024/03/25/hello-world/"/>
+      <url>/2024/03/25/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>文章置顶</title>
-      <link href="/2024/03/24/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6/"/>
-      <url>/2024/03/24/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6/</url>
+      <link href="/2024/03/25/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6/"/>
+      <url>/2024/03/25/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6/</url>
       
         <content type="html"><![CDATA[<p>cover:</p><h1 id="是否显示文章封面"><a href="#是否显示文章封面" class="headerlink" title="是否显示文章封面"></a>是否显示文章封面</h1><p>  index_enable: true<br>  aside_enable: true<br>  archives_enable: true</p><h1 id="封面显示的位置"><a href="#封面显示的位置" class="headerlink" title="封面显示的位置"></a>封面显示的位置</h1><h1 id="三个值可配置-left-right-both"><a href="#三个值可配置-left-right-both" class="headerlink" title="三个值可配置 left , right , both"></a>三个值可配置 left , right , both</h1><p>  position: both</p><h1 id="当没有设置cover时，默认的封面显示"><a href="#当没有设置cover时，默认的封面显示" class="headerlink" title="当没有设置cover时，默认的封面显示"></a>当没有设置cover时，默认的封面显示</h1><p>  default_cover: </p><p>  你可以直接在文章的front-matter区域里添加sticky: 1属性来把这篇文章置顶。数值越大，置顶的优先级越大。<br>  文章的markdown文档上，在Front-matter添加cover，并填上要显示的图片地址。如果不配置cover，可以设置显示默认的cover；如果不想在首页显示cover，可以设置为false。</p>]]></content>
       
@@ -31,8 +31,8 @@
     
     <entry>
       <title>自动部署</title>
-      <link href="/2024/03/24/%E6%98%8E%E6%97%A5%E4%BA%8B%E9%A1%B9/"/>
-      <url>/2024/03/24/%E6%98%8E%E6%97%A5%E4%BA%8B%E9%A1%B9/</url>
+      <link href="/2024/03/25/%E6%98%8E%E6%97%A5%E4%BA%8B%E9%A1%B9/"/>
+      <url>/2024/03/25/%E6%98%8E%E6%97%A5%E4%BA%8B%E9%A1%B9/</url>
       
         <content type="html"><![CDATA[<p>导航，页脚<br>自动部署已完善，继续修改 导航页脚<br>文章显示有部分BUG 影响美观 怀疑是hexo自带外挂标签没有卸载或者是美化的外挂标签没有安装。<br>地理定位，svgicon，页脚徽标。美化导航。评论页。</p>]]></content>
       
@@ -44,10 +44,10 @@
     
     <entry>
       <title>诗</title>
-      <link href="/2024/03/24/%E8%AF%97/"/>
-      <url>/2024/03/24/%E8%AF%97/</url>
+      <link href="/2024/03/25/%E8%AF%97/"/>
+      <url>/2024/03/25/%E8%AF%97/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% poem 水调歌头,苏轼 %&#125;</span><br><span class="line">庭中三千梨花树，再无一朵入我心。</span><br><span class="line">&#123;% endpoem %&#125;</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h2 id="2-22-诗词标签-poem"><a href="#2-22-诗词标签-poem" class="headerlink" title="2.22 诗词标签 poem"></a>2.22 诗词标签 poem</h2><div class="tabs" id="分栏"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="分栏-1">参数配置</button><button type="button" class="tab " data-href="分栏-2">示例源码</button><button type="button" class="tab " data-href="分栏-3">渲染演示</button></ul><div class="tab-contents"><div class="tab-item-content active" id="分栏-1"><ol><li><code>title</code>：诗词标题</li><li><code>author</code>：作者，可以不写</li></ol></div><div class="tab-item-content" id="分栏-2"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">&#123;% poem 水调歌头,苏轼 %&#125;</span><br><span class="line">丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。</span><br><span class="line">明月几时有？把酒问青天。</span><br><span class="line">不知天上宫阙，今夕是何年？</span><br><span class="line">我欲乘风归去，又恐琼楼玉宇，高处不胜寒。</span><br><span class="line">起舞弄清影，何似在人间？</span><br><span class="line"></span><br><span class="line">转朱阁，低绮户，照无眠。</span><br><span class="line">不应有恨，何事长向别时圆？</span><br><span class="line">人有悲欢离合，月有阴晴圆缺，此事古难全。</span><br><span class="line">但愿人长久，千里共婵娟。</span><br><span class="line">&#123;% endpoem %&#125;</span><br></pre></td></tr></table></figure></div><div class="tab-item-content" id="分栏-3"><div class='poem'><div class='poem-title'>水调歌头</div><div class='poem-author'>苏轼</div><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。<br>明月几时有？把酒问青天。<br>不知天上宫阙，今夕是何年？<br>我欲乘风归去，又恐琼楼玉宇，高处不胜寒。<br>起舞弄清影，何似在人间？</p><p>转朱阁，低绮户，照无眠。<br>不应有恨，何事长向别时圆？<br>人有悲欢离合，月有阴晴圆缺，此事古难全。<br>但愿人长久，千里共婵娟。</p></div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div>]]></content>
       
       
       
