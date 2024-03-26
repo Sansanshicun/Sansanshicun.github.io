@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>测试</title>
+      <link href="/2024/03/26/%E6%B5%8B%E8%AF%95%E9%A1%B5/"/>
+      <url>/2024/03/26/%E6%B5%8B%E8%AF%95%E9%A1%B5/</url>
+      
+        <content type="html"><![CDATA[<p>本页内容只用作于文章页测试功能</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/03/26/hello-world/"/>
       <url>/2024/03/26/hello-world/</url>
