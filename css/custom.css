@@ -237,7 +237,7 @@
 	overflow: hidden;
   }
 
-
+/* iconfont 自带样式 */
   .iconfont {
 	font-family: "iconfont" !important;
 	/* 这里可以自定义图标大小 */
@@ -245,4 +245,22 @@
 	font-style: normal;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+  }
+
+/* svg.icon  样式修改*/
+/* 个人信息栏icon修改 */
+  svg.social_icon {
+	width: 1.20em;
+	height: 1.20em;
+	vertical-align: -0.15em;
+	fill: currentColor;
+	overflow: hidden;
+  }
+/* 菜单栏icon修改 */
+  svg.menu_icon {
+	width: 1.28em;
+	height: 1.28em;
+	vertical-align: -0.15em;
+	fill: currentColor;
+	overflow: hidden;
   }
